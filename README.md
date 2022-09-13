@@ -1,3 +1,1 @@
-# rsschool-cv
-cv eddited
-cv completed
+https://zhanelr.github.io/rsschool-cv/cv
